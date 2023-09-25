@@ -6,6 +6,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:   
       - name: Say hello
-        uses: https://github.com/Torodde/Basta23Bootcamp/@v1
+        uses: Torodde/Basta23Bootcamp/@v1
         with:
           who-to-greet: '@torodde'
